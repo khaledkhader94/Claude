@@ -15,7 +15,7 @@
       "description": "Rich Tabor's motion design guidance for product UI: whether to animate at all, which easing curve and duration to use, spring or bezier, and reduced-motion support. Loaded from richtabor/agent-skills at a reviewed commit.",
       "source": {
         "source": "git-subdir",
-        "url": "richtabor/agent-skills",
+        "url": "https://github.com/richtabor/agent-skills.git",
         "path": "skills/motion-design",
         "sha": "f398e130361043e701140a764fbf10bdefaaf083"
       },

@@ -1,0 +1,14 @@
+{
+  "name": "remotion-maintainers",
+  "description": "Internal skills the Remotion team uses to work on the Remotion repository itself: issues, pull requests, releases, docs, Studio and infrastructure. Not needed for making videos.",
+  "author": {
+    "name": "Remotion",
+    "url": "https://www.remotion.dev"
+  },
+  "repository": "https://github.com/remotion-dev/remotion/tree/648721f460f68f972c57f204dda4d8d11efa6a23/.agents/skills",
+  "keywords": [
+    "remotion",
+    "maintainers",
+    "monorepo"
+  ]
+}

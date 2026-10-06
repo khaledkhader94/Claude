@@ -1,0 +1,19 @@
+{
+  "name": "react-animation-studio",
+  "description": "Animation skills for React and TypeScript: 3D effects, accents, backgrounds, creative effects, CSS, Framer Motion, GSAP, scroll, spring physics, SVG and text animations.",
+  "author": {
+    "name": "Brookside BI",
+    "url": "https://brooksidebi.com"
+  },
+  "repository": "https://github.com/TheLobbi/claude/tree/056cffc07fbde4d068ba90ae0b0b81de9fc6d357/plugins/react-animation-studio",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "animation",
+    "framer-motion",
+    "gsap",
+    "css",
+    "svg",
+    "3d"
+  ]
+}

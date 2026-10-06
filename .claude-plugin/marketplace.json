@@ -1,0 +1,24 @@
+{
+  "name": "khaledkhader94-skills",
+  "description": "A personal collection of Claude skills: React animation, Remotion video and Remotion maintainer skills.",
+  "owner": {
+    "name": "khaledkhader94"
+  },
+  "plugins": [
+    {
+      "name": "react-animation-studio",
+      "source": "./plugins/react-animation-studio",
+      "description": "11 animation skills for React and TypeScript: 3D, accents, backgrounds, creative effects, CSS, Framer Motion, GSAP, scroll, spring physics, SVG and text."
+    },
+    {
+      "name": "remotion",
+      "source": "./plugins/remotion",
+      "description": "Remotion's 12 official skills for making videos with React."
+    },
+    {
+      "name": "remotion-maintainers",
+      "source": "./plugins/remotion-maintainers",
+      "description": "60 internal skills for working on Remotion's own repository. Install only if you contribute to Remotion."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "remotion",
+  "description": "Remotion's official skills for making videos with React: best practices, new projects, captions, maps, markup, multimedia, interactivity, rendering, Studio, SaaS apps, docs search and upgrades.",
+  "author": {
+    "name": "Remotion",
+    "url": "https://www.remotion.dev"
+  },
+  "homepage": "https://www.remotion.dev",
+  "repository": "https://github.com/remotion-dev/skills",
+  "keywords": [
+    "remotion",
+    "video",
+    "react",
+    "captions",
+    "rendering"
+  ]
+}

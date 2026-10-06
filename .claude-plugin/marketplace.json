@@ -1,6 +1,6 @@
 {
   "name": "khaledkhader94-skills",
-  "description": "A personal collection of Claude skills: React animation, Remotion video and Remotion maintainer skills.",
+  "description": "A personal collection of Claude skills: React animation, motion design, Remotion video and Remotion maintainer skills.",
   "owner": {
     "name": "khaledkhader94"
   },
@@ -9,6 +9,24 @@
       "name": "react-animation-studio",
       "source": "./plugins/react-animation-studio",
       "description": "11 animation skills for React and TypeScript: 3D, accents, backgrounds, creative effects, CSS, Framer Motion, GSAP, scroll, spring physics, SVG and text."
+    },
+    {
+      "name": "motion-design",
+      "description": "Rich Tabor's motion design guidance for product UI: whether to animate at all, which easing curve and duration to use, spring or bezier, and reduced-motion support. Loaded from richtabor/agent-skills at a reviewed commit.",
+      "source": {
+        "source": "git-subdir",
+        "url": "richtabor/agent-skills",
+        "path": "skills/motion-design",
+        "sha": "f398e130361043e701140a764fbf10bdefaaf083"
+      },
+      "strict": false,
+      "skills": [
+        "./"
+      ],
+      "author": {
+        "name": "Rich Tabor"
+      },
+      "homepage": "https://github.com/richtabor/agent-skills/tree/f398e130361043e701140a764fbf10bdefaaf083/skills/motion-design"
     },
     {
       "name": "remotion",
